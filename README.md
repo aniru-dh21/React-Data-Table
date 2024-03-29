@@ -24,3 +24,8 @@ From your command line, do the following steps below:
 $ git clone git@github.com:aniru-dh21/React-Data-Table.git
 
 ```
+
+2. Change directory into React-Data-Table
+```bash
+$ cd React-Data-Table/
+```
