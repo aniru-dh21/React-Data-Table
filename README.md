@@ -39,3 +39,5 @@ $ npm run dev
 ```
 
 ## ✍️ Author
+
+👩‍💻 **Ramachandra Anirudh** • [GitHub](https://github.com/aniru-dh21) • [X](https://twitter.com/Dh21Aniru) • [LinkedIn](https://www.linkedin.com/in/ramachandra-anirudh-vemulapalli-554b551ba/)
