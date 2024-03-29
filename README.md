@@ -16,3 +16,11 @@ To get a local copy up and running follow the simple steps outlined below.
 ### 🔧 How To Use
 
 From your command line, do the following steps below:
+
+1. Clone the projects' repository into your machine.
+
+```bash
+# Clone this repository
+$ git clone git@github.com:aniru-dh21/React-Data-Table.git
+
+```
