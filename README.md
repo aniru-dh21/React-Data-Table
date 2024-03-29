@@ -28,4 +28,12 @@ $ git clone git@github.com:aniru-dh21/React-Data-Table.git
 2. Change directory into React-Data-Table
 ```bash
 $ cd React-Data-Table/
+
+```
+
+3. Run the command below to view the site on your local machine.
+
+```bash
+$ npm run dev
+
 ```
