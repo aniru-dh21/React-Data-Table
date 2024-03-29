@@ -10,3 +10,5 @@ The table is built which displays a person's ID, name, height, and eye color. Th
 - Bootstrap
 
 ## ⌨️ Getting Started
+
+To get a local copy up and running follow the simple steps outlined below.
