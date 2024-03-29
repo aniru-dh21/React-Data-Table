@@ -37,3 +37,5 @@ $ cd React-Data-Table/
 $ npm run dev
 
 ```
+
+## ✍️ Author
