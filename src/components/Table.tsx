@@ -174,7 +174,7 @@ function Table() {
           columns={columns}
           data={data}
           fixedHeader
-          title="React-Data-Table-Component."
+          title="React-Data-Table-Component Tutorial."
           pagination
           selectableRows
         />
